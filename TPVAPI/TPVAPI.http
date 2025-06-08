@@ -1,0 +1,6 @@
+@TPVAPI_HostAddress = http://localhost:5130
+
+GET {{TPVAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

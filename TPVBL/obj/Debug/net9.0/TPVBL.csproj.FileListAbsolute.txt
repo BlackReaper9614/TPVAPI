@@ -1,0 +1,17 @@
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVBL.deps.json
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVBL.dll
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVBL.pdb
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVDAL.dll
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVModels.dll
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVDAL.pdb
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/bin/Debug/net9.0/TPVModels.pdb
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.csproj.AssemblyReference.cache
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.AssemblyInfoInputs.cache
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.AssemblyInfo.cs
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.csproj.CoreCompileInputs.cache
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.csproj.Up2Date
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.dll
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/refint/TPVBL.dll
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/TPVBL.pdb
+/Users/luistrinidad/Desktop/Desarrollos/TPV/TPVAPI/TPVBL/obj/Debug/net9.0/ref/TPVBL.dll
