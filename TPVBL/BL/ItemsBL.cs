@@ -1,4 +1,5 @@
 using TPVDAL.DAL;
+using TPVModels.Models.Items.Entities;
 using TPVModels.Models.Items.SPs;
 using TPVModels.Models.Items.Tables;
 
@@ -22,6 +23,11 @@ public class ItemsBL
     public async Task<bool> UpdateItem(CAT_ITEMS payload)
     {
         return await DAO.UpdateItem(payload);
+    }
+    
+    public async Task<IEnumerable<CAT_ITEMS>> GetItemsByParams(QueryParams payload)
+    {
+        return await DAO.GetItemsByParams(payload);
     }
 
 }

@@ -55,4 +55,7 @@ public class CAT_ITEMS
     [JsonPropertyName("updatedAt")]
     public DateTime updatedAt { get; set; }
     
+    [JsonPropertyName("totalRows")]
+    public int totalRows { get; set; }
+    
 }

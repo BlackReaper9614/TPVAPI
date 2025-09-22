@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using TPVBL.BL;
+using TPVModels.Models.Items.Entities;
 using TPVModels.Models.Items.SPs;
 using TPVModels.Models.Items.Tables;
 
@@ -31,6 +32,24 @@ public class ItemsController: ControllerBase
     public async Task<bool> UpdateItem(CAT_ITEMS payload)
     {
         return await BL.UpdateItem(payload);
+    }
+    
+    [HttpPost]
+    [Route("GetItemsByParams")]
+    public async Task<IActionResult> GetItemsByParams([FromBody] QueryParams payload)
+    {
+        
+        try
+        {
+            var result= await BL.GetItemsByParams(payload);
+            
+            return Ok(result);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+        
     }
 
 }
